@@ -1,0 +1,11 @@
+body {
+  background-color: aquamarine;
+}
+
+nav {
+  border-bottom: 3px solid #fff;
+}
+
+.fas {
+  font-size: 3em;
+}
